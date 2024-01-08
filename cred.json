@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spatial-thinker-304205",
+  "private_key_id": "5176c7250a64d36f72d13afeb62bbf6109f7a856",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCMEA38YJP0pgPF\nqdHpdenCgrE3vIUDuQCTucdHrBXJzbH6kWe1im7stHqkWUtYsmgWU1KkaY3/388L\nsKWqq8VKEPspa5yZJ65TfQRFxo8n7lqCpbV0KXDSThbMa370r9EwqhpQQtHYPNNC\nrQ1m/ywLt99BbalekVAkK99sKPz3sekxARYPkkI+FH+YHhaBzsNZqz3LIAMQeW89\ns4sasL9fyRzPbVvwcMFUwh51UVizgdYewrF91U+SCD85MCd8yEn1pgss/ckHOIEg\nkqWNLZwoYg6vpCyLaQhVUeiGD0frr4s53KuGqReAMaN7YeMKhTYlaUEAuLqHB+ul\nnm/SIzifAgMBAAECggEAOQncuDeYaVwmUxvaSUnknXrdssYKIT749jAE8LIq2Vj0\nLweCBZNPowPIoh9fKMrWyqi6EgyOcHJzfd49SSjUmloZ/n89cb2QJ53U3JmE+Qz/\nPQ9AuwKZWHvGmw73z6u99CSBvMfJb1ct7YxN1fD6vfbua1W+UK26xlA7l2+FvVTT\nVN4zWUpa/HTTCLLYQIsfvdi9MbmzV+yDWiC1mPno8ZEPHCXiIP5lw3fYjMTUcVwz\nZn/UlcnQM4cVDzMfpFAYCAUG3kmVTW4FUQ/tXPEQoS7yH7VliILIrVlzydBKXpBk\nJAAvR5XY/QIUFfC2geHEz01esusSTXxgzk+q4hdjwQKBgQDAFA7/Q129w3RQJ2FJ\nbgWkErfmdQMolS051r7Ffm1dSX+IwN3aBDTQyB7pZfZW43WgjFgrb3Y1F8GzmWpg\n/NkLe2dMHZ44kBRotQAgvdb3IAvl+siXfz9E7ZzO8XqlkHE8ezqNWjP9t30pNrNU\ntPopI1PNjlYWj9jVxtfP1GMyIQKBgQC6rJIXL6060IOWQuElQKTGheD7U2YxZeY+\nTCB3SRE1VgG/SS/OSR4hUPNRtwKE535uxY7qLkVDRN1iDzXUjDvmVfoxkOE0JIDL\nakP3UfBGEdilKmIUFZux447Cb1CneGe/avCzwMRmzxLLZZ9jBU3AYwcwDQd58BRP\nu2CBzEqSvwKBgHDVl7XGejP2tMY9S/5Z3oBy6os8I93cPFQk3a6gxVguy/em7Oyc\n2fXoCZisaBjEyB3HNChX8wXfbc+2iPJutoXzOUxSfdbWdNbJtUiGnNhRgAva1amB\ne8ZfG2XKH3VRM+QGs+/DlJUwDBuA4boaEnbGJP205secOxHiHHcfWiJhAoGBAJ+C\nVlL5qkxXYBlFjJ0IX8RDIbufx/Lt34/b/OHwzYOFunh5USAz2ksdoMxyVPS72o1M\nwpHYd9bDQWhJFvZH3ec0EFXKNqUXi/ZFF0599ZHqLfT0AlqnHCMlDxeVhpWTjRND\njeoLDcfLqYOjkk5KeeWquLmWaI0JWFHJCu3eYtqBAoGBAIO5IkuzIiorNDM16Maf\nioKjckVqFRug+tT62J0Eea3xVhJFn2a4L65/SyCe6yO6aUVq/+XWcJFIwffA+jKT\nwYRgduIt0Ps0UtP34KLwFOzHSB7+amPrEdalUBLgYhZXd1rxxcyzJya2c0N7PZR6\n81EtsYwhZJF1qrDqlau3vJOP\n-----END PRIVATE KEY-----\n",
+  "client_email": "trigentsdet@spatial-thinker-304205.iam.gserviceaccount.com",
+  "client_id": "101824114185484810403",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trigentsdet%40spatial-thinker-304205.iam.gserviceaccount.com"
+}

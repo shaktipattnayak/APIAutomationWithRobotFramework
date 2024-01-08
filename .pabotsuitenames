@@ -1,0 +1,8 @@
+datasources:915ac7b46d1ebb135da3efe693075e7ea16f27dc
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:023c430230e0767041ab3efb10095eceba106d6f
+--test Reqres API Tests.List all users details
+--test Reqres API Tests.Test to create new user details
+--test Reqres API Tests.Test to update existing user details
+--test Reqres API Tests.Test to delete user details
